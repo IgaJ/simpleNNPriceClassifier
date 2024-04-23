@@ -5,4 +5,5 @@ A chart displays the distribution of predicted labels
 
 Model klasyfikacji cen do przewidywania czy dana cena jest wysoka czy niska na podstawie zdefiniowanych przez usera danych treningowych
 
-![chart](https://github.com/IgaJ/simpleNNPriceClassifier/assets/110561199/5c90506a-bb6e-4aea-b287-b0a0c426c241)
+
+![chart](https://github.com/IgaJ/simpleNNPriceClassifier/assets/110561199/c0b51255-4a29-4056-b8ac-d1aec6a60195)
